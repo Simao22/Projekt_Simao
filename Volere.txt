@@ -1,0 +1,59 @@
+1. Projekt ten dotyczy usprawnienia pracy w pewnym salonie samochodowym w Katowicach, 
+oraz nabycia przez ten salon nowych klientów.
+
+2.
+
+3. U¿ytkownicy:
+   a) W³aœciciel salonu
+   b) Specjaliœci do spraw sprzeda¿y samochodów
+   c) Specjalista do spraw wyceny samochodów
+   d) Administrator obs³uguj¹cy stronê internetow¹ i sieæ
+   e) Mechanicy
+   Iloœæ u¿ytkowników: grupa, kilka osób, jedna osoba
+   Rola u¿ytkownika
+   Poziom wiedzy i doœwiadczenie
+   Wa¿noœæ u¿ytkownika (kluczowi u¿ytkownicy, u¿ytkownicy drugiego poziomu,
+   u¿ytkownicy trzeciego poziomu)
+   
+   a) W³aœciciel salonu:
+   Iloœæ- 1
+   Rola u¿ytkownika- zarz¹dzanie salonem i pracownikami
+   Poziom wiedzy i doœwiadczenie- wykszta³cenie wy¿sze na poziomie licencjata 
+   (najwiêksze doœwiadczenie)
+   Wa¿noœæ u¿ytkownika- *kluczowy u¿ytkownik
+   
+   b) Specjaliœci do spraw sprzeda¿y samochodów:
+   Iloœæ- 3
+   Rola u¿ytkownika- kontakt z klientem i sprzeda¿ samochodów
+   Poziom wiedzy i doœwiadczenie- wykszta³cenie i doœwiadczenie œrednie 
+   Wa¿noœæ u¿ytkownika- *drugiego poziomu
+   
+   c) Specjalista do spraw wyceny samochodów:
+   Iloœæ- 1
+   Rola u¿ytkownika- ustalanie uszkodzeñ i wycena samochodu
+   Poziom wiedzy i doœwiadczenie- wykszta³cenie wy¿sze (du¿e doœwiadczenie)
+   Wa¿noœæ u¿ytkownika- *drugiego poziomu
+   
+   d) Administrator obs³uguj¹cy stronê internetow¹ i sieæ systemow¹:
+   Iloœæ- 1
+   Rola u¿ytkownika- obs³uga sieci systemowej w salonie i strony internetowej
+   salonu
+   Poziom wiedzy i doœwiadczenie- wykszta³cenie wy¿sze informatyczne
+   ( œrednie doœwiadczenie)
+   Wa¿noœæ u¿ytkownika- *kluczowy u¿ytkownik
+   
+   e) Mechanicy:
+   Iloœæ- 2
+   Rola u¿ytkownika- naprawa i serwis samochodów
+   Poziom wiedzy i doœwiadczenie- wykszta³cenie zawodowe( du¿e doœwiadczenie)
+   Wa¿noœæ u¿ytkownika- *trzeciego poziomu
+ 
+ 9. Wymagania funkcjonalne i wymagania danych:
+   - sprowadzanie samochodów
+   - zarz¹dzanie pracownikami
+   - mi³a obs³uga klientów
+   - naprawa i serwisowanie samochodów
+   - aktualizowanie strony internetowej
+   - odbieranie telefonów i mail'i
+   - konserwacja systemu
+   - przedstawianie korzystnych ofert
