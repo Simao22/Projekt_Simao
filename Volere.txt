@@ -1,59 +1,61 @@
 1. Projekt ten dotyczy usprawnienia pracy w pewnym salonie samochodowym w Katowicach, 
-oraz nabycia przez ten salon nowych klientów.
+oraz nabycia przez ten salon nowych klientï¿½w.
 
-2.
+2. Zlecajacy- wlasciciel salonu, Nabywca- salon samochodowy, osoby majace wplyw na 
+   przebieg procesu- klienci biura podrozy, pracownicy biura podrÃ³Å¼y.
 
-3. U¿ytkownicy:
-   a) W³aœciciel salonu
-   b) Specjaliœci do spraw sprzeda¿y samochodów
-   c) Specjalista do spraw wyceny samochodów
-   d) Administrator obs³uguj¹cy stronê internetow¹ i sieæ
+3. Uï¿½ytkownicy:
+   a) Wï¿½aï¿½ciciel salonu
+   b) Specjaliï¿½ci do spraw sprzedaï¿½y samochodï¿½w
+   c) Specjalista do spraw wyceny samochodï¿½w
+   d) Administrator obsï¿½ugujï¿½cy stronï¿½ internetowï¿½ i sieï¿½
    e) Mechanicy
-   Iloœæ u¿ytkowników: grupa, kilka osób, jedna osoba
-   Rola u¿ytkownika
-   Poziom wiedzy i doœwiadczenie
-   Wa¿noœæ u¿ytkownika (kluczowi u¿ytkownicy, u¿ytkownicy drugiego poziomu,
-   u¿ytkownicy trzeciego poziomu)
+   Nazwa uÅ¼ytkownika: Imie, Nazwisko, Nr Prawa Jazdy, Wiek
+   Iloï¿½ï¿½ uï¿½ytkownikï¿½w: grupa, kilka osï¿½b, jedna osoba
+   Rola uï¿½ytkownika
+   Poziom wiedzy i doï¿½wiadczenie
+   Waï¿½noï¿½ï¿½ uï¿½ytkownika (kluczowi uï¿½ytkownicy, uï¿½ytkownicy drugiego poziomu,
+   uï¿½ytkownicy trzeciego poziomu)
    
-   a) W³aœciciel salonu:
-   Iloœæ- 1
-   Rola u¿ytkownika- zarz¹dzanie salonem i pracownikami
-   Poziom wiedzy i doœwiadczenie- wykszta³cenie wy¿sze na poziomie licencjata 
-   (najwiêksze doœwiadczenie)
-   Wa¿noœæ u¿ytkownika- *kluczowy u¿ytkownik
+   a) Wï¿½aï¿½ciciel salonu:
+   Iloï¿½ï¿½- 1
+   Rola uï¿½ytkownika- zarzï¿½dzanie salonem i pracownikami
+   Poziom wiedzy i doï¿½wiadczenie- wyksztaï¿½cenie wyï¿½sze na poziomie licencjata 
+   (najwiï¿½ksze doï¿½wiadczenie)
+   Waï¿½noï¿½ï¿½ uï¿½ytkownika- *kluczowy uï¿½ytkownik
    
-   b) Specjaliœci do spraw sprzeda¿y samochodów:
-   Iloœæ- 3
-   Rola u¿ytkownika- kontakt z klientem i sprzeda¿ samochodów
-   Poziom wiedzy i doœwiadczenie- wykszta³cenie i doœwiadczenie œrednie 
-   Wa¿noœæ u¿ytkownika- *drugiego poziomu
+   b) Specjaliï¿½ci do spraw sprzedaï¿½y samochodï¿½w:
+   Iloï¿½ï¿½- 3
+   Rola uï¿½ytkownika- kontakt z klientem i sprzedaï¿½ samochodï¿½w
+   Poziom wiedzy i doï¿½wiadczenie- wyksztaï¿½cenie i doï¿½wiadczenie ï¿½rednie 
+   Waï¿½noï¿½ï¿½ uï¿½ytkownika- *drugiego poziomu
    
-   c) Specjalista do spraw wyceny samochodów:
-   Iloœæ- 1
-   Rola u¿ytkownika- ustalanie uszkodzeñ i wycena samochodu
-   Poziom wiedzy i doœwiadczenie- wykszta³cenie wy¿sze (du¿e doœwiadczenie)
-   Wa¿noœæ u¿ytkownika- *drugiego poziomu
+   c) Specjalista do spraw wyceny samochodï¿½w:
+   Iloï¿½ï¿½- 1
+   Rola uï¿½ytkownika- ustalanie uszkodzeï¿½ i wycena samochodu
+   Poziom wiedzy i doï¿½wiadczenie- wyksztaï¿½cenie wyï¿½sze (duï¿½e doï¿½wiadczenie)
+   Waï¿½noï¿½ï¿½ uï¿½ytkownika- *drugiego poziomu
    
-   d) Administrator obs³uguj¹cy stronê internetow¹ i sieæ systemow¹:
-   Iloœæ- 1
-   Rola u¿ytkownika- obs³uga sieci systemowej w salonie i strony internetowej
+   d) Administrator obsï¿½ugujï¿½cy stronï¿½ internetowï¿½ i sieï¿½ systemowï¿½:
+   Iloï¿½ï¿½- 1
+   Rola uï¿½ytkownika- obsï¿½uga sieci systemowej w salonie i strony internetowej
    salonu
-   Poziom wiedzy i doœwiadczenie- wykszta³cenie wy¿sze informatyczne
-   ( œrednie doœwiadczenie)
-   Wa¿noœæ u¿ytkownika- *kluczowy u¿ytkownik
+   Poziom wiedzy i doï¿½wiadczenie- wyksztaï¿½cenie wyï¿½sze informatyczne
+   ( ï¿½rednie doï¿½wiadczenie)
+   Waï¿½noï¿½ï¿½ uï¿½ytkownika- *kluczowy uï¿½ytkownik
    
    e) Mechanicy:
-   Iloœæ- 2
-   Rola u¿ytkownika- naprawa i serwis samochodów
-   Poziom wiedzy i doœwiadczenie- wykszta³cenie zawodowe( du¿e doœwiadczenie)
-   Wa¿noœæ u¿ytkownika- *trzeciego poziomu
+   Iloï¿½ï¿½- 2
+   Rola uï¿½ytkownika- naprawa i serwis samochodï¿½w
+   Poziom wiedzy i doï¿½wiadczenie- wyksztaï¿½cenie zawodowe( duï¿½e doï¿½wiadczenie)
+   Waï¿½noï¿½ï¿½ uï¿½ytkownika- *trzeciego poziomu
  
  9. Wymagania funkcjonalne i wymagania danych:
-   - sprowadzanie samochodów
-   - zarz¹dzanie pracownikami
-   - mi³a obs³uga klientów
-   - naprawa i serwisowanie samochodów
+   - sprowadzanie samochodï¿½w
+   - zarzï¿½dzanie pracownikami
+   - miï¿½a obsï¿½uga klientï¿½w
+   - naprawa i serwisowanie samochodï¿½w
    - aktualizowanie strony internetowej
-   - odbieranie telefonów i mail'i
+   - odbieranie telefonï¿½w i mail'i
    - konserwacja systemu
    - przedstawianie korzystnych ofert
