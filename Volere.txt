@@ -7,7 +7,7 @@ oraz nabycia przez ten salon nowych klientow.
 3. Uzytkownicy:
    a) Wlasciciel salonu
    b) Specjalisci do spraw sprzedazy samochodow
-   c) Specjalista do spraw wyceny samochod�w
+   c) Specjalista do spraw wyceny samochodow
    d) Administrator obslugujacy strone internetowa i siec
    e) Mechanicy
    Nazwa użytkownika: Imie, Nazwisko, Nr Prawa Jazdy, Wiek
