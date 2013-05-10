@@ -1,61 +1,61 @@
 1. Projekt ten dotyczy usprawnienia pracy w pewnym salonie samochodowym w Katowicach, 
-oraz nabycia przez ten salon nowych klient�w.
+oraz nabycia przez ten salon nowych klientow.
 
 2. Zlecajacy- wlasciciel salonu, Nabywca- salon samochodowy, osoby majace wplyw na 
    przebieg procesu- klienci biura podrozy, pracownicy biura podróży.
 
-3. U�ytkownicy:
-   a) W�a�ciciel salonu
-   b) Specjali�ci do spraw sprzeda�y samochod�w
+3. Uzytkownicy:
+   a) Wlasciciel salonu
+   b) Specjalisci do spraw sprzedazy samochodow
    c) Specjalista do spraw wyceny samochod�w
-   d) Administrator obs�uguj�cy stron� internetow� i sie�
+   d) Administrator obslugujacy strone internetowa i siec
    e) Mechanicy
    Nazwa użytkownika: Imie, Nazwisko, Nr Prawa Jazdy, Wiek
-   Ilo�� u�ytkownik�w: grupa, kilka os�b, jedna osoba
-   Rola u�ytkownika
-   Poziom wiedzy i do�wiadczenie
-   Wa�no�� u�ytkownika (kluczowi u�ytkownicy, u�ytkownicy drugiego poziomu,
-   u�ytkownicy trzeciego poziomu)
+   Ilosc uzytkownikow: grupa, kilka osob, jedna osoba
+   Rola uzytkownika
+   Poziom wiedzy i doswiadczenie
+   Waznosc uzytkownika (kluczowi uzytkownicy, uzytkownicy drugiego poziomu,
+   uzytkownicy trzeciego poziomu)
    
-   a) W�a�ciciel salonu:
-   Ilo��- 1
-   Rola u�ytkownika- zarz�dzanie salonem i pracownikami
-   Poziom wiedzy i do�wiadczenie- wykszta�cenie wy�sze na poziomie licencjata 
-   (najwi�ksze do�wiadczenie)
-   Wa�no�� u�ytkownika- *kluczowy u�ytkownik
+   a) Wlasciciel salonu:
+   Ilosc- 1
+   Rola uzytkownika- zarzadzanie salonem i pracownikami
+   Poziom wiedzy i doswiadczenie- wyksztalcenie wyzsze na poziomie licencjata 
+   (najwieksze doswiadczenie)
+   Waznosc uzytkownika- *kluczowy uzytkownik
    
-   b) Specjali�ci do spraw sprzeda�y samochod�w:
-   Ilo��- 3
-   Rola u�ytkownika- kontakt z klientem i sprzeda� samochod�w
-   Poziom wiedzy i do�wiadczenie- wykszta�cenie i do�wiadczenie �rednie 
-   Wa�no�� u�ytkownika- *drugiego poziomu
+   b) Specjalisci do spraw sprzedazy samochodow:
+   Ilosc- 3
+   Rola uzytkownika- kontakt z klientem i sprzedaz samochodow
+   Poziom wiedzy i doswiadczenie- wyksztalcenie i doswiadczenie srednie 
+   Waznosc uzytkownika- *drugiego poziomu
    
-   c) Specjalista do spraw wyceny samochod�w:
-   Ilo��- 1
-   Rola u�ytkownika- ustalanie uszkodze� i wycena samochodu
-   Poziom wiedzy i do�wiadczenie- wykszta�cenie wy�sze (du�e do�wiadczenie)
-   Wa�no�� u�ytkownika- *drugiego poziomu
+   c) Specjalista do spraw wyceny samochodow:
+   Ilosc- 1
+   Rola uzytkownika- ustalanie uszkodzen i wycena samochodu
+   Poziom wiedzy i doswiadczenie- wyksztalcenie wyzsze (duze doswiadczenie)
+   Waznosc uzytkownika- *drugiego poziomu
    
-   d) Administrator obs�uguj�cy stron� internetow� i sie� systemow�:
-   Ilo��- 1
-   Rola u�ytkownika- obs�uga sieci systemowej w salonie i strony internetowej
+   d) Administrator obslugujacy strone internetowa i siec systemowa:
+   Ilosc- 1
+   Rola uzytkownika- obsluga sieci systemowej w salonie i strony internetowej
    salonu
-   Poziom wiedzy i do�wiadczenie- wykszta�cenie wy�sze informatyczne
-   ( �rednie do�wiadczenie)
-   Wa�no�� u�ytkownika- *kluczowy u�ytkownik
+   Poziom wiedzy i doswiadczenie- wyksztalcenie wyzsze informatyczne
+   (srednie doswiadczenie)
+   Waznosc uzytkownika- *kluczowy uzytkownik
    
    e) Mechanicy:
-   Ilo��- 2
-   Rola u�ytkownika- naprawa i serwis samochod�w
-   Poziom wiedzy i do�wiadczenie- wykszta�cenie zawodowe( du�e do�wiadczenie)
-   Wa�no�� u�ytkownika- *trzeciego poziomu
+   Ilosc- 2
+   Rola uzytkownika- naprawa i serwis samochodow
+   Poziom wiedzy i doswiadczenie- wyksztalcenie zawodowe( duze doswiadczenie)
+   Waznosc uzytkownika- *trzeciego poziomu
  
  9. Wymagania funkcjonalne i wymagania danych:
-   - sprowadzanie samochod�w
-   - zarz�dzanie pracownikami
-   - mi�a obs�uga klient�w
-   - naprawa i serwisowanie samochod�w
+   - sprowadzanie samochodow
+   - zarzadzanie pracownikami
+   - mila obsluga klientow
+   - naprawa i serwisowanie samochodow
    - aktualizowanie strony internetowej
-   - odbieranie telefon�w i mail'i
+   - odbieranie telefonow i mail'i
    - konserwacja systemu
    - przedstawianie korzystnych ofert
