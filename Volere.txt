@@ -1,11 +1,12 @@
-1. Projekt ten dotyczy usprawnienia pracy w pewnym salonie samochodowym w Katowicach, 
+1. Projekt ten dotyczy usprawnienia pracy w pewnym komisie samochodowym w Katowicach, 
 oraz nabycia przez ten salon nowych klientow.
 
-2. Zlecajacy- wlasciciel salonu, Nabywca- salon samochodowy, osoby majace wplyw na 
-   przebieg procesu- klienci biura podrozy, pracownicy biura podróży.
+2. Zlecajacy i zarazem nabywca- klient kupujacy samochod, Zleceniobiorca- komis samochodowy, 
+osoby majace wplyw na przebieg procesu- salony samochodowe, osoby sprzedajace samochody do
+komisu oraz pracownicy komisu samochodowego.
 
 3. Uzytkownicy:
-   a) Wlasciciel salonu
+   a) Wlasciciel komisu
    b) Specjalisci do spraw sprzedazy samochodow
    c) Specjalista do spraw wyceny samochodow
    d) Administrator obslugujacy strone internetowa i siec
@@ -17,9 +18,9 @@ oraz nabycia przez ten salon nowych klientow.
    Waznosc uzytkownika (kluczowi uzytkownicy, uzytkownicy drugiego poziomu,
    uzytkownicy trzeciego poziomu)
    
-   a) Wlasciciel salonu:
+   a) Wlasciciel komisu:
    Ilosc- 1
-   Rola uzytkownika- zarzadzanie salonem i pracownikami
+   Rola uzytkownika- zarzadzanie komisem i pracownikami
    Poziom wiedzy i doswiadczenie- wyksztalcenie wyzsze na poziomie licencjata 
    (najwieksze doswiadczenie)
    Waznosc uzytkownika- *kluczowy uzytkownik
@@ -38,7 +39,7 @@ oraz nabycia przez ten salon nowych klientow.
    
    d) Administrator obslugujacy strone internetowa i siec systemowa:
    Ilosc- 1
-   Rola uzytkownika- obsluga sieci systemowej w salonie i strony internetowej
+   Rola uzytkownika- obsluga sieci systemowej w komisie i strony internetowej
    salonu
    Poziom wiedzy i doswiadczenie- wyksztalcenie wyzsze informatyczne
    (srednie doswiadczenie)
@@ -47,7 +48,7 @@ oraz nabycia przez ten salon nowych klientow.
    e) Mechanicy:
    Ilosc- 2
    Rola uzytkownika- naprawa i serwis samochodow
-   Poziom wiedzy i doswiadczenie- wyksztalcenie zawodowe( duze doswiadczenie)
+   Poziom wiedzy i doswiadczenie- wyksztalcenie zawodowe (duze doswiadczenie)
    Waznosc uzytkownika- *trzeciego poziomu
  
  9. Wymagania funkcjonalne i wymagania danych:
